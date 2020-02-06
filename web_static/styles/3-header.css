@@ -3,22 +3,13 @@ header {
 	height: 70px;
 	width: 100%;
 	border-bottom: 1px solid #CCCCCC;
+	padding-left: 20px;
 }
 
 div {
 	text-decoration: none;
-	border: 0;
 	width: 162px;
-	height: 113px;
+	height: 100%;
 	margin: 0;
-	padding: 0;
 	background: url(../images/logo.png) no-repeat 0 0;
-	background-size: cover;
-}
-
-div.logo {
-	display: flex;
-	justify-content: flex-start;
-	align-items: flex-start;
-	padding-left: 20px;
 }
