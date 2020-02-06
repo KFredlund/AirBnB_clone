@@ -22,15 +22,10 @@ button:hover {
 	 opacity: 90%;
 }
 
-.locations {
-	height: 100%;
+.locations .amenities {
+	margin-left: 30px;
 	width: 25%;
 	border-right: 1px solid #DDDDDD;
-}
-
-.amenities {
-	height: 100%;
-	width: 25%;
 }
 
 h3 {
