@@ -22,7 +22,8 @@ button:hover {
 	 opacity: 90%;
 }
 
-.locations .amenities {
+.locations,
+.amenities {
 	margin-left: 30px;
 	width: 25%;
 	border-right: 1px solid #DDDDDD;
