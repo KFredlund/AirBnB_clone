@@ -6,7 +6,7 @@ header {
 	padding-left: 20px;
 }
 
-div {
+div.logo {
 	text-decoration: none;
 	width: 162px;
 	height: 100%;
