@@ -8,8 +8,6 @@ body {
 }
 
 .container {
-	display: flex;
 	max-width: 1000px;
 	margin: 30px 0px 30px 0px;
-	justify-content: center;
 }
