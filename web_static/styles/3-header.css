@@ -13,6 +13,7 @@ div {
 	margin: 0;
 	padding: 0;
 	background: url(../images/logo.png) no-repeat 0 0;
+	background-size: cover;
 }
 
 div.logo {
