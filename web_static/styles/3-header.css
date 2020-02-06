@@ -5,7 +5,7 @@ header {
 	border-bottom: 1px solid #CCCCCC;
 }
 
-h1 {
+div {
 	text-decoration: none;
 	border: 0;
 	width: 162px;
@@ -15,7 +15,7 @@ h1 {
 	background: url(../images/logo.png) no-repeat 0 0;
 }
 
-h1 a {
+div #logo {
 	display: flex;
 	justify-content: flex-start;
 	align-items: flex-start;
