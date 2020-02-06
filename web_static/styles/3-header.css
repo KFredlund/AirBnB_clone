@@ -15,10 +15,9 @@ div {
 	background: url(../images/logo.png) no-repeat 0 0;
 }
 
-div #logo {
+div.logo {
 	display: flex;
 	justify-content: flex-start;
 	align-items: flex-start;
 	padding-left; 20px;
-	color: white;
 }
